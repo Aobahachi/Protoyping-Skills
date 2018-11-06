@@ -5,7 +5,7 @@ void setup() {
   //Using Width and Height Key Variables, communication to the display Geometry
   size(500,600);
   
-  pic = loadImage();
+  //pic = loadImage(); //dimesnions (put picture name into brackets)
   //pic2 = loadImage();
   //pic3 = loadImage();
   
